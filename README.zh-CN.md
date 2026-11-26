@@ -26,6 +26,6 @@ spec:
 | [NVSentinel](https://github.com/NVIDIA/NVSentinel) | 在 Kubernetes 上检测 GPU 故障并自动修复。 |
 | [Nydus](https://github.com/dragonflyoss/nydus) | 按需加载镜像数据，缩短容器启动时间。 |
 | [Dragonfly](https://github.com/dragonflyoss/dragonfly) | 通过 P2P 网络分发容器镜像。 |
-| [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) | 让 Argo CD 从外部密钥管理系统读取密钥。 |
-| [kamaji-etcd](https://github.com/clastix/kamaji-etcd) | 为 Kamaji 提供多租户 etcd 数据存储。 |
+| [Argo CD](https://github.com/argoproj/argo-cd) | 面向 Kubernetes 的声明式持续交付工具。 |
+| [Kamaji](https://github.com/clastix/kamaji) | 运行和管理托管的 Kubernetes 控制平面。 |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | 跟踪热点和 RSS 订阅，支持 AI 辅助筛选。 |

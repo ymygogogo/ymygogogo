@@ -26,6 +26,6 @@ spec:
 | [NVSentinel](https://github.com/NVIDIA/NVSentinel) | Detects GPU faults and automates recovery on Kubernetes. |
 | [Nydus](https://github.com/dragonflyoss/nydus) | Speeds up container startup by loading image data on demand. |
 | [Dragonfly](https://github.com/dragonflyoss/dragonfly) | Distributes container images over a peer-to-peer network. |
-| [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) | Lets Argo CD retrieve secrets from external secret stores. |
-| [kamaji-etcd](https://github.com/clastix/kamaji-etcd) | Provides a multi-tenant etcd datastore for Kamaji. |
+| [Argo CD](https://github.com/argoproj/argo-cd) | Declarative continuous delivery for Kubernetes. |
+| [Kamaji](https://github.com/clastix/kamaji) | Runs and manages hosted Kubernetes control planes. |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | Tracks trending topics and RSS feeds with AI-assisted filtering. |
